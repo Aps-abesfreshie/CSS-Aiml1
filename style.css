@@ -1,0 +1,47 @@
+p{
+    color:rgb(17, 17, 155);
+    font-size: 17px;
+    text-align: center;
+    
+}
+.p{
+    color: rgb(137, 185, 137);
+    background-color: rgb(58, 112, 112);
+}
+#jk{
+    font-size: 25px;
+}
+div{
+    /* display: inline-block; */
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 100px;
+
+}
+#Gps{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    padding: 10px;
+    border: 3px dotted red;
+    margin: 300px;
+}
+#Aps{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    padding: 10px;
+    border:3px dashed black;
+    margin: 500px;
+}
+#Dps{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    padding: 10px;
+    border: 3px double black;
+    margin: 600px;
+}
