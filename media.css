@@ -1,0 +1,30 @@
+.box{
+    height: 100px;
+    width: 100%;
+    background-color: green;
+}
+@media(min-width:760px){
+    .box{
+        background-color: lightpink;
+    }
+}
+@media(min-width:1024px){
+    .box{
+        background-color: red;
+    }
+}
+.icon{
+    height: 100px;
+    width: 100px;
+
+}
+.menu{
+    display: none;
+    flex-direction: column;
+    background-color: aquamarine;
+    position: absolute;
+    top: 60px;
+    right:20px;
+    width:200px;
+}
+.menu a{color: azure;padding: 1em;text-decoration: none;display: block;}
